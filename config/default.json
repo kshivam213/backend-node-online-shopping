@@ -1,0 +1,7 @@
+{
+    "analyticsDb" : {
+        "url" : "mongodb://localhost:27017/shopping",
+        "user" : "root",
+        "pass" : "root"
+    }
+}
